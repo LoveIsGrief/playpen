@@ -97,3 +97,4 @@ ENV/
 
 # Project stuff
 tmdb.ini
+*.csv
